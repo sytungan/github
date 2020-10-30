@@ -1,4 +1,5 @@
 ### Hi there, I'm Sy Tung An - aka Ankun 👋👨‍💻👊
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" width="20px" src="https://simpleicons.org/icons/firefoxbrowser.svg" />][website]
 [<img align="left" width="20px" src="https://simpleicons.org/icons/discord.svg" />][discord]
 [<img align="left" width="20px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
@@ -7,10 +8,17 @@
 [<img align="left" width="20px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
 <br>
 
+- 🌱 I’m currently studying **Computer Science**
+
+- 💬 Ask me about **Python, C++, Terminal**
+
+- 📫 You can reach me at **sytungan@gmail.com**
+  
+
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.sytungan.vercel.app/api/spotify)](https://open.spotify.com/user/3psex7ajsp096vowhb9j219yr)
 
-### Languages and Tools:
+### Languages and Tools ⚙️
 <code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
 <code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
