@@ -8,7 +8,7 @@
 <br>
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.sytungan.vercel.app/api/spotify)](https://open.spotify.com/user/21xo6zrxifapztsezccxmhbtq)
+[![Spotify](https://novatorem.sytungan.vercel.app/api/spotify)](https://open.spotify.com/user/3psex7ajsp096vowhb9j219yr)
 
 ### Languages and Tools:
 <code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
