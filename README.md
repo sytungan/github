@@ -19,19 +19,17 @@
 [![Spotify](https://novatorem.sytungan.vercel.app/api/spotify)](https://open.spotify.com/user/3psex7ajsp096vowhb9j219yr)
 
 ### Languages and Tools ⚙️
-<code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
-<code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
-<code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"></code>
-<code><img width="25px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 <code><img width="25px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 
-<details>
-  <summary> GitHub Stats🤏 </summary>
-
+### GitHub Stats 🤏
   <img align="center" src="https://github-readme-stats.sytungan.vercel.app/api?username=sytungan&show_icons=true&hide_border=true&theme=omni"/>
-
-</details>
 <!-- Ref -->
 
 [website]: https://sytungan.github.io
