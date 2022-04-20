@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently studying **Computer Science**
 
-- 💬 Ask me about **Python, C++, Terminal**
+- 💬 Ask me about **Android, Flutter, DevOps**
 
 - 📫 You can reach me at **sytungan@gmail.com**
   
