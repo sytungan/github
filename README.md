@@ -8,9 +8,9 @@
 [<img align="left" width="20px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
 <br>
 
-- 🌱 I’m currently studying **Computer Science**
+- 🌱 I’m currently studying Master's degree **Computer Science**
 
-- 💬 Ask me about **Android/iOS, Flutter, DevOps**
+- 💬 Ask me about **Android/iOS, Flutter, Go, DevOps**
 
 - 📫 You can reach me at **sytungan@gmail.com**
   
