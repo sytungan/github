@@ -19,12 +19,13 @@
 [![Spotify](https://novatorem.sytungan.vercel.app/api/spotify)](https://open.spotify.com/user/3psex7ajsp096vowhb9j219yr)
 
 ### Languages and Tools ⚙️
-<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
+<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></code>
 <code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 <code><img width="25px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 
