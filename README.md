@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently studying Master's degree **Computer Science**
 
-- 💬 Ask me about **Android/iOS, Flutter, Go, DevOps**
+- 💬 Ask me about **Go, Flutter, DevOps**
 
 - 📫 You can reach me at **sytungan@gmail.com**
   
