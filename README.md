@@ -1,4 +1,5 @@
-### Hi there, I'm Sy Tung An - aka Ankun 👋👨‍💻👊
+### Hi there 👋
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" width="20px" src="https://simpleicons.org/icons/firefoxbrowser.svg" />][website]
 [<img align="left" width="20px" src="https://simpleicons.org/icons/discord.svg" />][discord]
@@ -8,9 +9,11 @@
 [<img align="left" width="20px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
 <br>
 
+I'm **An** Sy Tung - aka **Ankun**, a passionate full-stack developer 👨‍💻👊
+
 - 🌱 I’m currently studying Master's degree **Computer Science**
 
-- 💬 Ask me about **Go, Flutter, DevOps**
+- 💬 Ask me about **Go, Android/iOS, DevOps**
 
 - 📫 You can reach me at **sytungan@gmail.com**
   
